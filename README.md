@@ -18,3 +18,8 @@
 [/book-room/:roomId] - Checkout --> BookingForm --> BookingSummary
 
     - BookingSuccess --> Header
+
+# GitHub Page
+
+    1. npm install gh-pages
+    2. add homePage, predeploy, deploy in package.json
